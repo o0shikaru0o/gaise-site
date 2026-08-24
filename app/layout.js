@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 export const metadata = {
   title: 'Gaise — Save items from any retailer in one closet',
   description: 'Save items from any retailer into one closet. Compare side by side. Get alerts when prices drop.',
-  metadataBase: new URL('https://gaise.vercel.app'),
+  metadataBase: new URL('https://gaise-site.vercel.app'),
   openGraph: {
     title: 'Gaise — One closet for everything you\'re shopping for',
     description: 'Save items from any retailer, compare them side by side, and get alerts the moment a price drops.',
